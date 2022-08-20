@@ -44,4 +44,8 @@
 
     git log --oneline --all
 
+*Выбор коммитов файла*
+
+    git checkout имя комиита
+
 
